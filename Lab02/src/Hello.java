@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("yang - This line was added by Dr. Yang.");
 		// Add a new line with your information
 		System.out.println("SacStateID - This line was added by Areesh Tanveer.");
-		//i am working on the lab alone so only my name is in the file
+		//I am working on this project alone
 
 }
 
